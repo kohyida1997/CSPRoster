@@ -1,0 +1,174 @@
+#1
+====== ALLOCATION ======
+1 [Charmaine, JonT]
+3 [Claribel, Abhinav]
+4 [Charmaine, Ivan]
+7 [JonT, Ivan]
+9 [Charmaine, Abhinav]
+12 [Claribel, Ivan]
+13 [Abhinav, JonT]
+16 [Claribel, Charmaine]
+19 [JonT, Ivan]
+20 [Charmaine, Abhinav]
+22 [Claribel, JonT]
+24 [Abhinav, Ivan]
+
+ ====== POINTS ======
+GREEN Abhinav [24.0 points]
+GREEN JonT [22.0 points]
+GREEN Ivan [22.5 points]
+GREEN Charmaine [21.5 points]
+GREEN Claribel [21.5 points]
+
+ ====== FAIRNESS ======
+[Sum of |ith_points - ColorMean|] for all i persons in GREEN: 3.8000000000000007
+
+#2
+====== ALLOCATION ======
+1 [Charmaine, JonT]
+3 [Claribel, Abhinav]
+4 [Charmaine, Ivan]
+7 [JonT, Ivan]
+9 [Charmaine, Abhinav]
+12 [Claribel, Ivan]
+13 [Charmaine, JonT]
+16 [Claribel, Abhinav]
+19 [Charmaine, JonT]
+20 [Claribel, Abhinav]
+22 [JonT, Ivan]
+24 [Claribel, Charmaine]
+
+ ====== POINTS ======
+GREEN Abhinav [22.5 points]
+GREEN JonT [22.0 points]
+GREEN Ivan [20.5 points]
+GREEN Charmaine [23.0 points]
+GREEN Claribel [23.5 points]
+
+ ====== FAIRNESS ======
+[Sum of |ith_points - ColorMean|] for all i persons in GREEN: 4.199999999999999
+
+#3
+====== ALLOCATION ======
+1 [Charmaine, JonT]
+3 [Claribel, Abhinav]
+4 [Charmaine, Ivan]
+7 [Abhinav, JonT]
+9 [Charmaine, Ivan]
+12 [Claribel, Ivan]
+13 [Charmaine, Abhinav]
+16 [Claribel, Abhinav]
+19 [JonT, Ivan]
+20 [Charmaine, Abhinav]
+22 [Claribel, JonT]
+24 [Abhinav, Ivan]
+
+ ====== POINTS ======
+GREEN Abhinav [25.0 points]
+GREEN JonT [21.0 points]
+GREEN Ivan [23.0 points]
+GREEN Charmaine [21.0 points]
+GREEN Claribel [21.5 points]
+
+ ====== FAIRNESS ======
+[Sum of |ith_points - ColorMean|] for all i persons in GREEN: 6.800000000000001
+
+#4
+====== ALLOCATION ======
+1 [Claribel, Charmaine]
+3 [Abhinav, JonT]
+4 [Charmaine, Ivan]
+7 [JonT, Ivan]
+9 [Charmaine, Abhinav]
+12 [Claribel, Ivan]
+13 [Charmaine, JonT]
+16 [Claribel, Abhinav]
+19 [Charmaine, JonT]
+20 [Claribel, Abhinav]
+22 [JonT, Ivan]
+24 [Claribel, Charmaine]
+
+ ====== POINTS ======
+GREEN Abhinav [22.5 points]
+GREEN JonT [23.0 points]
+GREEN Ivan [20.5 points]
+GREEN Charmaine [23.0 points]
+GREEN Claribel [22.5 points]
+
+ ====== FAIRNESS ======
+[Sum of |ith_points - ColorMean|] for all i persons in GREEN: 3.599999999999998
+
+#5
+====== ALLOCATION ======
+1 [Claribel, Charmaine]
+3 [Abhinav, JonT]
+4 [Charmaine, Ivan]
+7 [Abhinav, JonT]
+9 [Charmaine, Ivan]
+12 [Claribel, Ivan]
+13 [Charmaine, Abhinav]
+16 [Claribel, Abhinav]
+19 [Charmaine, JonT]
+20 [Claribel, Abhinav]
+22 [JonT, Ivan]
+24 [Claribel, Abhinav]
+
+ ====== POINTS ======
+GREEN Abhinav [25.0 points]
+GREEN JonT [22.0 points]
+GREEN Ivan [21.0 points]
+GREEN Charmaine [21.0 points]
+GREEN Claribel [22.5 points]
+
+ ====== FAIRNESS ======
+[Sum of |ith_points - ColorMean|] for all i persons in GREEN: 5.800000000000001
+
+#6
+====== ALLOCATION ======
+1 [Charmaine, JonT]
+3 [Claribel, Abhinav]
+4 [Charmaine, Ivan]
+7 [JonT, Ivan]
+9 [Charmaine, Abhinav]
+12 [Claribel, Ivan]
+13 [Charmaine, JonT]
+16 [Claribel, Abhinav]
+19 [JonT, Ivan]
+20 [Charmaine, Abhinav]
+22 [Claribel, JonT]
+24 [Charmaine, Ivan]
+
+ ====== POINTS ======
+GREEN Abhinav [22.5 points]
+GREEN JonT [22.0 points]
+GREEN Ivan [22.5 points]
+GREEN Charmaine [23.0 points]
+GREEN Claribel [21.5 points]
+
+ ====== FAIRNESS ======
+[Sum of |ith_points - ColorMean|] for all i persons in GREEN: 2.1999999999999993
+
+#7
+====== ALLOCATION ======
+1 [Claribel, Charmaine]
+3 [Abhinav, JonT]
+4 [Charmaine, Ivan]
+7 [Abhinav, JonT]
+9 [Charmaine, Ivan]
+12 [Claribel, Ivan]
+13 [Abhinav, JonT]
+16 [Claribel, Charmaine]
+19 [JonT, Ivan]
+20 [Charmaine, Abhinav]
+22 [Claribel, JonT]
+24 [Abhinav, Ivan]
+
+ ====== POINTS ======
+GREEN Abhinav [23.5 points]
+GREEN JonT [23.0 points]
+GREEN Ivan [23.0 points]
+GREEN Charmaine [21.5 points]
+GREEN Claribel [20.5 points]
+
+ ====== FAIRNESS ======
+[Sum of |ith_points - ColorMean|] for all i persons in GREEN: 5.199999999999999

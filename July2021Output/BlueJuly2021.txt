@@ -1,0 +1,29 @@
+#1
+
+====== ALLOCATION ======
+-1 [JonP, Sarah] (HO of Con is also on Call)
+0 [Cheryl, HongRong] (HO of Con is also on Call)
+2 [Sarah, Akira]
+5 [Sarah, JonP]
+6 [HongRong, Cheryl]
+8 [Akira, JonP]
+10 [HongRong, Cheryl]
+11 [Akira, JonP]
+14 [Akira, Cheryl]
+15 [Sarah, HongRong]
+17 [Akira, JonP]
+18 [HongRong, Cheryl]
+21 [Akira, HongRong] (HO of Con is also on Call)
+23 [Sarah, JonP]
+25 [Akira, HongRong]
+26 [Sarah, JonP]
+
+ ====== POINTS ======
+BLUE Akira [25.5 points]
+BLUE Sarah [21.5 points]
+BLUE HongRong [21.5 points]
+BLUE Cheryl [20.5 points]
+BLUE JonP [23.0 points]
+
+ ====== FAIRNESS ======
+[Sum of |ith_points - ColorMean|] for all i persons in BLUE: 7.399999999999999
